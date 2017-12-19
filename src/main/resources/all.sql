@@ -1,0 +1,21 @@
+#namespace("account")
+	#include("account.sql")
+#end
+#namespace("borrowflow")
+	#include("borrowflow.sql")
+#end
+#namespace("chargeflow")
+	#include("chargeflow.sql")
+#end
+#namespace("logininfo")
+	#include("logininfo.sql")
+#end
+#namespace("manager")
+	#include("manager.sql")
+#end
+#namespace("meat")
+	#include("meat.sql")
+#end
+#namespace("systemaccount")
+	#include("systemaccount.sql")
+#end
